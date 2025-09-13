@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tercer-viaje-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tercer-viaje-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tercer-viaje-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.rincondelviaje.com/tercer-viaje-de-cristobal-colon/"
+    },
+    "homepage": "https://www.rincondelviaje.com/tercer-viaje-de-cristobal-colon/"
+}
